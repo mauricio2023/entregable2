@@ -1,0 +1,8 @@
+git
+
+https://github.com/mauricio2023/entregable2
+
+
+netlify
+
+https://sprightly-marzipan-771d6f.netlify.app/
